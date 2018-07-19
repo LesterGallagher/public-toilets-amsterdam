@@ -27,7 +27,7 @@
     <preference name="SplashScreen" value="images/logo.png" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashScreenDelay" value="500" />
-    <preference name="SplashScreenBackgroundColor" value="#5d023f" />
+    <preference name="SplashScreenBackgroundColor" value="#3c6666" />
     <preference name="SplashScreenWidth" value="256" />
     <preference name="SplashScreenHeight" value="256" />
 </widget>
