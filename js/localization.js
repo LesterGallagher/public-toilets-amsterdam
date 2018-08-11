@@ -1,6 +1,6 @@
 
 var _app_userLang = (navigator.language || navigator.userLanguage).slice(0, 2);
-if (_app_userLang !== 'nl' || _app_userLang !== 'en') _app_userLang = 'en';
+if (_app_userLang !== 'nl' && _app_userLang !== 'en') _app_userLang = 'en';
 
 var _app_localization = {
     publicToilet: {
@@ -13,7 +13,7 @@ var _app_localization = {
     },
     locationIsNotRoofed: {
         nl: 'toilet heeft geen dak',
-        en: 'tolet does not have a roof',
+        en: 'toilet does not have a roof',
     },
     verlichting: {
         nl: 'toilet heeft verlichting',

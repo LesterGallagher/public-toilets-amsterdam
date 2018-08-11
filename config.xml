@@ -2,7 +2,7 @@
 <widget id="com.EchoSierraStudio.Amsterdam_Public_Toilets" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Amsterdam Public Toilets</name>
     <description>
-        Interactive chart showing public toilets in the city centre of amsterdam. 
+        Interactive chart showing public toilets in the city center of Amsterdam. 
         The chart also shows your current location for easy navigation. 
         This app also loads in a small offline map (only about ~4.3MB), so you don't have to worry about your internet connection when you install this app on your device.
     </description>
