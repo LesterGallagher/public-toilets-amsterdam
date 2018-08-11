@@ -9,7 +9,7 @@
     <author email="polyismstudio@gmail.com" href="https://esstudio.site/">
         Sem Postma
     </author>
-    <content src="index.html" />
+    <content src="browser-sync-start.html" />
     <access origin="*" />
     <allow-navigation href="https://echosierrastudio.github.io/EchoSierraStudio/privacy-policy.html" />
     <allow-navigation href="https://esstudio.site/*" />
@@ -30,4 +30,5 @@
     <preference name="SplashScreenBackgroundColor" value="#3c6666" />
     <preference name="SplashScreenWidth" value="256" />
     <preference name="SplashScreenHeight" value="256" />
+    <allow-navigation href="*" />
 </widget>
