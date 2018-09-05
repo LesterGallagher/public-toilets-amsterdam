@@ -24,3 +24,12 @@ if (navigator.userAgent.indexOf('MSIE') !== -1
 </div>'.split('\n').join('');
 }
 
+// GA
+var googletag = document.createElement('script');
+googletag.src = 'https://www.googletagmanager.com/gtag/js?id=UA-90014538-15';
+window.dataLayer = window.dataLayer || [];
+function gtag() { dataLayer.push(arguments); }
+gtag('js', new Date());
+gtag('config', 'UA-90014538-15');
+document.head.appendChild(googletag);
+
